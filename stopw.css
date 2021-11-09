@@ -1,0 +1,16 @@
+.sw {
+    background-color: #1a1f38;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sw__time {
+    color: #ecd404;
+}
+
+.sw__btns button {
+    border: 2px solid #ecd404;
+    background-color: #1a1f38;
+    color: white;
+}
